@@ -58,7 +58,6 @@ You can download and install the latest version of **XoXo** using the link below
 
 👉 [Download XoXo v1.0.0 APK](https://github.com/Karthik1772/XoXo/releases/download/v1.0.0/XoXo.apk)
 
-> ⚠️ You may need to enable "Install from Unknown Sources" on your Android device.
 
 ---
 
