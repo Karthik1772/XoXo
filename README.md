@@ -47,7 +47,7 @@ lib/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Karthik1772/Doozy.git
+   git clone https://github.com/Karthik1772/XoXo.git
    cd Doozy
    ```
 
